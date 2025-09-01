@@ -8,3 +8,4 @@ D:\TOOLS\★日めくりカレンダー\Himekuri\obj\Debug\Himekuri.csproj.Gener
 D:\TOOLS\★日めくりカレンダー\Himekuri\obj\Debug\Himekuri.csproj.CoreCompileInputs.cache
 D:\TOOLS\★日めくりカレンダー\Himekuri\obj\Debug\Himekuri.exe
 D:\TOOLS\★日めくりカレンダー\Himekuri\obj\Debug\Himekuri.pdb
+D:\TOOLS\★日めくりカレンダー\Himekuri\obj\Debug\Himekuri.Form2.resources
